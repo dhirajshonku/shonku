@@ -1,156 +1,139 @@
-/* Your custom styles here */
+/* Import Bootstrap styles */
+@import url('(link unavailable)');
 
 /* Add some basic styling to our template */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 16px; /* Increased font size for better readability */
 }
 
 header {
-    color: #fff;
-    padding: 20px;
-    text-align: center;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  background-color: #007bff; /* Primary color for the header */
+  border-bottom: 1px solid #0069d9; /* Add a bottom border */
 }
 
 section {
-    margin-bottom: 40px; /* Adds space at the bottom of each section */
-  }
+  margin-bottom: 40px; /* Adds space at the bottom of each section */
+}
 
 hero {
-    background-image: linear-gradient(to bottom, #007bff, #6610f2);
-    background-size: 100% 600px;
-    background-position: 0% 100%;
-    margin-left: 10%;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #fff;
+  background-image: linear-gradient(to bottom, #007bff, #6610f2);
+  background-size: 100% 600px;
+  background-position: 0% 100%;
+  margin-left: 10%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 24px; /* Increased font size for hero section */
 }
 
 .feature-content {
-    padding: 20px;
+  padding: 20px;
 }
 
 .feature-box {
-    padding: 20px;
-    margin-bottom: 20px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9; /* Add a background color */
+  text-align: center; /* Center align the content */
 }
 
 .pricing-content {
-    padding: 20px;
+  padding: 20px;
 }
 
 .pricing-box {
-    padding: 20px;
-    margin-bottom: 20px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9; /* Add a background color */
+  text-align: center; /* Center align the content */
 }
 
 .pricing-box h3 {
-    color: #007bff; /* Primary color for the heading */
-  }
+  color: #007bff; /* Primary color for the heading */
+  font-weight: bold; /* Make the heading bolder */
+}
 
-  .pricing-box p {
-    color: #28a745; /* Green color for the price */
-    font-size: 1.2em;
-  }
+.pricing-box p {
+  color: #28a745; /* Green color for the price */
+  font-size: 1.2em;
+  font-weight: bold; /* Make the price bolder */
+}
 
-  .pricing-box ul {
-    list-style-type: none; /* Remove default list styling */
-    padding: 0;
-  }
+.pricing-box ul {
+  list-style-type: none; /* Remove default list styling */
+  padding: 0;
+}
 
-  .pricing-box ul li {
-    margin: 5px 0; /* Space between list items */
-  }
+.pricing-box ul li {
+  margin: 5px 0; /* Space between list items */
+}
 
-  .btn-primary {
-    background-color: #007bff;
-    border-color: #007bff;
-  }
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  font-weight: bold; /* Make the button bolder */
+  padding: 12px 24px; /* Increase button size */
+  font-size: 16px; /* Increase button font size */
+}
 
-  .highlight {
-    background-color: #f0f8ff; /* Light blue background */
-    padding: 20px;
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-  }
+.highlight {
+  background-color: #f0f8ff; /* Light blue background */
+  padding: 20px;
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  text-align: center; /* Center align the content */
+}
 
-  .highlight h3 {
-    color: #007bff; /* Primary color for the heading */
-  }
+.highlight h3 {
+  color: #007bff; /* Primary color for the heading */
+  font-weight: bold; /* Make the heading bolder */
+}
 
-  .highlight p {
-    color: #28a745; /* Green color for the price */
-    font-size: 1.2em;
-  }
+.highlight p {
+  color: #28a745; /* Green color for the price */
+  font-size: 1.2em;
+  font-weight: bold; /* Make the price bolder */
+}
 
-  .highlight ul {
-    list-style-type: none; /* Remove default list styling */
-    padding: 0;
-  }
+.highlight ul {
+  list-style-type: none; /* Remove default list styling */
+  padding: 0;
+}
 
-  .highlight ul li {
-    margin: 5px 0; /* Space between list items */
-  }
-
-  .btn-primary {
-    background-color: #007bff;
-    border-color: #007bff;
-  }
-
+.highlight ul li {
+  margin: 5px 0; /* Space between list items */
+}
 
 .contact-content {
-    padding: 20px;
+  padding: 20px;
 }
 
 .contact-form {
-    background-color: #f7f7f7;
-    padding: 20px;
-    margin-bottom: 20px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f7f7f7;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .special-section {
-    margin: 20px 0; /* Margin to create gap */
-    padding: 20px;  /* Padding inside the section */
-    border: 1px solid #ddd; /* Optional border */
-    background-color: #f9f9f9; /* Optional background color */
-    position: relative; /* For positioning the horizontal line */
-}
-.special-section::before {
-    content: "";
-    display: block;
-    width: 100%;
-    height: 1px;
-    background-color: #ccc; /* Color of the horizontal line */
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-.special-section-content {
-    position: relative; /* To ensure content is above the line */
-    z-index: 1;
-}
-
-.pricing-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-.pricing-table th, .pricing-table td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-}
-.pricing-table th {
-    background-color: #f2f2f2;
-}
+  margin: 20px 0; /* Margin to create gap */
+  padding: 20px; /* Padding inside the section */
+  border: 1px solid #ddd; /* Optional border */
+  background-color: #f9f9f9; /* Optional background color */
+  position: relative; /* For positioning
