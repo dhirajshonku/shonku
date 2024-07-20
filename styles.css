@@ -140,3 +140,16 @@ hero {
     position: relative; /* To ensure content is above the line */
     z-index: 1;
 }
+
+.pricing-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.pricing-table th, .pricing-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.pricing-table th {
+    background-color: #f2f2f2;
+}
