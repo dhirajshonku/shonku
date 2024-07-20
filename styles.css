@@ -28,23 +28,6 @@ hero {
     color: #fff;
 }
 
-.navbar-brand {
-  display: flex;
-  align-items: center;
-  text-decoration: none; /* Optional: remove underline from the link */
-}
-.brand-container {
-  display: flex;
-  align-items: center;
-}
-.brand-container img {
-  margin-right: 10px; /* Adjust spacing as needed */
-}
-.brand-container h1 {
-  margin: 0; /* Remove default margin */
-  font-size: 24px; /* Adjust font size as needed */
-}
-
 .feature-content {
     padding: 20px;
 }
