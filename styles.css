@@ -51,6 +51,60 @@ hero {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.pricing-box h3 {
+    color: #007bff; /* Primary color for the heading */
+  }
+
+  .pricing-box p {
+    color: #28a745; /* Green color for the price */
+    font-size: 1.2em;
+  }
+
+  .pricing-box ul {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0;
+  }
+
+  .pricing-box ul li {
+    margin: 5px 0; /* Space between list items */
+  }
+
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+
+  .highlight {
+    background-color: #f0f8ff; /* Light blue background */
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+
+  .highlight h3 {
+    color: #007bff; /* Primary color for the heading */
+  }
+
+  .highlight p {
+    color: #28a745; /* Green color for the price */
+    font-size: 1.2em;
+  }
+
+  .highlight ul {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0;
+  }
+
+  .highlight ul li {
+    margin: 5px 0; /* Space between list items */
+  }
+
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+
+
 .contact-content {
     padding: 20px;
 }
