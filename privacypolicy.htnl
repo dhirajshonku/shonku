@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shonku Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+        }
+        h1, h2 {
+            color: #444;
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        p {
+            margin: 10px 0;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            text-align: center;
+            color: #888;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Shonku Privacy Policy</h1>
+
+        <p>At Shonku, we value your privacy and are committed to protecting your personal information. This privacy policy explains how we collect, use, and disclose personal data from our customers, users, and visitors to our website and chatbot services.</p>
+
+        <h2>Information We Collect</h2>
+        <p><strong>Personal Information:</strong> We collect personal information such as name, email address, phone number, and company name when you sign up for our services or contact us through our website.</p>
+        <p><strong>Chatbot Conversations:</strong> We collect data from conversations between users and our chatbots, including chat logs, voice recordings, and transcripts.</p>
+        <p><strong>Website Usage:</strong> We collect information about your website usage, including IP address, browser type, and device information.</p>
+
+        <h2>How We Use Your Information</h2>
+        <p><strong>Providing Services:</strong> We use your personal information to provide our services, including chatbot development and deployment.</p>
+        <p><strong>Improving Services:</strong> We use chatbot conversations and website usage data to improve our services and develop new features.</p>
+        <p><strong>Communication:</strong> We use your personal information to communicate with you about our services, updates, and offers.</p>
+
+        <h2>Data Security</h2>
+        <p>We take reasonable precautions to protect your personal information from unauthorized access, use, or disclosure.</p>
+
+        <h2>Data Sharing</h2>
+        <p>We do not share your personal information with third parties, except in the following circumstances:</p>
+        <ul>
+            <li><strong>Service Providers:</strong> We share data with service providers who work on our behalf.</li>
+            <li><strong>Legal Compliance:</strong> We share data to comply with legal obligations and protect our rights.</li>
+        </ul>
+
+        <h2>Your Rights</h2>
+        <p>You have the right to access, correct, or delete your personal information. You can also object to our processing of your personal information.</p>
+
+        <h2>Changes to This Policy</h2>
+        <p>We may update this privacy policy from time to time. We will notify you of any significant changes by posting a notice on our website.</p>
+
+        <h2>Contact Us</h2>
+        <p>If you have any questions about this privacy policy, please contact us at <a href="mailto:admin@shonku.online">admin@shonku.online</a></p>
+
+        <h2>Effective Date</h2>
+        <p>This privacy policy is effective as of July 20, 2024.</p>
+
+        <p>We at Shonku and our affiliates (“Shonku”, “we”, “us”, or “our”) have created this privacy policy (“AI Success Coach Privacy Policy” or henceforth referred to as the “Chatbot Privacy Policy”) to describe how we collect and use Personal Information (defined below) from and about the students and end users (“Users”, “you”, “your”) who use our Service (as defined below) to interface with and communicate with the universities, colleges and organizations that use the Shonku platform (our “Partners”) and the choices that you have with regard to how we use your information.</p>
+
+        <p>This Privacy Policy applies to Users’ use of mobile features, applications and any other interactive features or services owned or controlled by Shonku (each, a “Service” and collectively, the “Services”). Certain features discussed in this Privacy Policy may not be offered on each Service at any particular time. This Chatbot Privacy Policy does not apply to our general privacy practices, such as information collected through our web site or our Partners’ use of the Services; these activities are governed by our general Privacy Policy, available at <a href="https://Shonku.com/privacypolicy" target="_blank">Shonku.com/privacypolicy</a>.</p>
+
+        <p>This Chatbot Privacy Policy explains what Personal Information (defined below) we collect from or about Users, how we use and share that information, and your choices concerning our data practices. Additional information for California residents may be found here. This Chatbot Privacy Policy is incorporated into and forms part of our Chatbot Terms of Use.</p>
+
+        <h2>1. PERSONAL INFORMATION COLLECTION</h2>
+        <p>Through providing the Services, we may collect information that, alone or in combination with other reasonably available information, can reasonably identify or relate to a specific individual or household (“Personal Information”) as follows:</p>
+        <h3>1.1 Information You Provide:</h3>
+        <p>We collect Personal Information you provide when you interact with Services to communicate with a Partner, such as by chatting with a bot provided on a Partner’s website or sending text messages to a Partner using our Services. This Personal Information includes information you provide during these interactions, such as your name, email address, phone number, physical address or zip code, demographic information (such as your school, gender, age or birthdate), and information about your interests and preferences.</p>
+        <p>Note that our Chatbot will only ever ask for your name, email address and phone number; any other Personal Information you provide is at your own discretion and not required for your use of the Services. We may combine the information we collect from you through Services with other Personal Information we have about you as described in this Chatbot Privacy Policy. Any information combined with Personal Information will be treated as Personal Information.</p>
+        <h3>1.2 Information Provided By Our Partners:</h3>
+        <p>Our Partners enter your Personal Information into the Services so that they may communicate with you via the Services. This Personal Information includes, but is not limited to, your name, email address, phone number, and any other Personal Information our Partners may choose to provide.</p>
+        <h3>1.3 Third Party Services:</h3>
+        <p>Our Services may be made available on the web sites of our Partners or other third parties, such as Facebook. Our Services may also include links to web sites or services hosted by third parties, such as chat rooms or group counseling sessions, through which you may communicate directly with third parties and/or other Users. We only collect information regarding your interaction with the Services and do not gather information from the third party sites regarding your interactions with the third parties or other Users on those services.</p>
+        <p>The information we collect is subject to this Chatbot Privacy Policy. The information collected and stored by the third party remains subject to the third party’s privacy practices, including whether the third party shares information with us, the types of information shared, and your choices with regard to what is visible to others on that third party web site and service. For more information about third-party content and services, click here.</p>
+        <h3>1.4 Information Third Parties May Provide About You:</h3>
+        <p>To the extent permissible by law, we also may supplement the information we collect with outside records from third parties, such as schools, universities, organizations, services, and institutions that are not our Partners, in order to provide you with information, services or goods you have requested, to enhance our ability to serve you, to tailor our content to you and to offer you opportunities that we believe may be of interest to you. We may combine the information we receive from those other sources with information we collect through the Services. In those cases, we will apply this Chatbot Privacy Policy to the combined information.</p>
+        <h3>1.5 Information Collected Automatically:</h3>
+        <p>Depending on the Service used, we and certain service providers may automatically collect “Usage Information” when you access and use the Services online. To do so, we automatically assign and collect a unique identifier (“Device Identifier”) for any computer, mobile phone or other device (any, a “Device”) you may use to access the Services online so that our servers can recognize your Device. The Usage Information we automatically collect based on your Device Identifier include details of your
