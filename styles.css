@@ -122,3 +122,25 @@ hero {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+.special-section {
+    margin: 20px 0; /* Margin to create gap */
+    padding: 20px;  /* Padding inside the section */
+    border: 1px solid #ddd; /* Optional border */
+    background-color: #f9f9f9; /* Optional background color */
+    position: relative; /* For positioning the horizontal line */
+}
+.special-section::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    background-color: #ccc; /* Color of the horizontal line */
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.special-section-content {
+    position: relative; /* To ensure content is above the line */
+    z-index: 1;
+}
