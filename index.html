@@ -43,10 +43,31 @@
           </nav>
         </header>
         <section id="hero">
-          <div class="hero-content">
-            <h1>Transform Your Business with Conversational AI</h1>
-            <p>Most advanced no code conversational AI bots that go beyond basic chatbots, delivering intelligent, personalized, and dynamic interactions to elevate your business</p>
-            <button class="btn btn-primary" id="learn-more-btn">Learn More</button>
+          <!-- Button -->
+          <button class="btn btn-primary" id="learn-more-btn" data-toggle="modal" data-target="#learnMoreModal">Learn More</button>
+
+          <!-- Modal -->
+          <div class="modal fade" id="learnMoreModal" tabindex="-1" aria-labelledby="learnMoreModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                  <div class="modal-content">
+                      <div class="modal-header">
+                          <h5 class="modal-title" id="learnMoreModalLabel">More Information</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                          </button>
+                      </div>
+                      <div class="modal-body">
+                          <!-- Add your text here -->
+                          <p>Small and solopreneur businesses often lack the resources to customer services, lead generation, customer insights, order tracking, booking reservation, student update, student communication. Due to not being able to online 24X7 or technical expertise to build and manage their own chatbots. Our service provides a user-friendly, cost-effective way for them to add the benefits of conversational AI to their operations.</p>
+                      </div>
+                      <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
           </div>
         </section>
         <section id="features">
